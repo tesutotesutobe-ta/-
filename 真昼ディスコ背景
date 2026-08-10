@@ -241,8 +241,8 @@
   },
   "spec": 2,
   "background": {
-    "url": "YOUR_IMAGE_URL_HERE",
-    "alpha": 0.5,
-    "blur": 0.5
+    "url": "https://cdn.discordapp.com/attachments/1536230568558198915/1536347262060601364/wmremove-transformed_1.jpg?ex=6a7b1263&is=6a79c0e3&hm=9c484ca72c14a8a0cb0eadbb134a0884ca142d13807a06caa47d87a588ecc307&",
+    "alpha": 0.6,
+    "blur": 0
   }
 }

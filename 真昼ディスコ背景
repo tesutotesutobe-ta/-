@@ -1,7 +1,7 @@
 {
-  "name": "Coffee ♨ Theme (Updated Image URL)",
-  "description": "Custom theme with updated background image URL",
-  "version": "1.8",
+  "name": "Coffee ♨ Theme (Catbox Fixed Image)",
+  "description": "Custom theme with permanent Catbox background image",
+  "version": "1.9",
   "authors": [
     {
       "name": "𝐑𝐢𝐬𝐤",
@@ -240,7 +240,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1536230568558198915/1536353729345753108/5163e920b33c8050614620c5cdb0a6a7.jpg?ex=6a7b1869&is=6a79c6e9&hm=bef4aeeb3d8c21f9403fca0f5296e99a623822596d5ec1d25fb267d3ed8a38ce&",
+    "url": "https://files.catbox.moe/nviqpv.jpg",
     "alpha": 0.45,
     "blur": 0
   }
